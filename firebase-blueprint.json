@@ -1,0 +1,67 @@
+{
+  "entities": {
+    "Wish": {
+      "title": "Wish",
+      "description": "A public Diwali community wish shared by a visitor celebrating Deepavali.",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the wish"
+        },
+        "name": {
+          "type": "string",
+          "description": "Sender display name"
+        },
+        "recipientName": {
+          "type": "string",
+          "description": "Optional recipient name"
+        },
+        "state": {
+          "type": "string",
+          "description": "Selected Indian state or region"
+        },
+        "wish": {
+          "type": "string",
+          "description": "The festive Diwali wish text"
+        },
+        "timestamp": {
+          "type": "number",
+          "description": "Unix timestamp in milliseconds"
+        },
+        "userId": {
+          "type": "string",
+          "description": "Firebase Auth UID of author"
+        },
+        "moderationStatus": {
+          "type": "string",
+          "enum": ["pending", "approved", "flagged"],
+          "description": "Moderation review status"
+        },
+        "reports": {
+          "type": "number",
+          "description": "Number of times flagged by community"
+        },
+        "reportedBy": {
+          "type": "array",
+          "description": "List of user UIDs who flagged this wish to prevent duplicate reporting"
+        },
+        "isSample": {
+          "type": "boolean",
+          "description": "Whether this wish is a seeded cultural sample"
+        },
+        "isVerified": {
+          "type": "boolean",
+          "description": "Whether wish is verified by administrator"
+        }
+      },
+      "required": ["id", "wish", "timestamp", "userId", "moderationStatus", "reports"]
+    }
+  },
+  "firestore": {
+    "/wishes/{wishId}": {
+      "schema": "Wish",
+      "description": "Collection of shared Diwali wishes displayed across India in real time."
+    }
+  }
+}

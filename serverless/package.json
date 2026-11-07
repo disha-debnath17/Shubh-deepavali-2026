@@ -1,0 +1,10 @@
+{
+  "name": "shubh-diwali-serverless-greeting",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for generating AI greetings with Google Gemini",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "node -e \"import('./index.mjs').then(m => console.log('Handler loaded successfully'))\""
+  }
+}

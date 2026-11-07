@@ -1,0 +1,50 @@
+[
+  {
+    "id": "seed-wb",
+    "name": "Ananya",
+    "state": "West Bengal",
+    "wish": "May Maa Kali’s divine light remove all darkness and bring peaceful joy to every family across India! ✨",
+    "timestamp": 1793634216046,
+    "isSample": true
+  },
+  {
+    "id": "seed-mh",
+    "name": "Siddharth",
+    "state": "Maharashtra",
+    "wish": "Crisp faral, sweet laddoos, and golden moments of laughter. Shubh Deepavali to all our brothers and sisters!",
+    "timestamp": 1793636016046,
+    "isSample": true
+  },
+  {
+    "id": "seed-gj",
+    "name": "Bhavna",
+    "state": "Gujarat",
+    "wish": "Saal Mubarak! May this festival of lights spark prosperous new ventures and health in every Indian home. 🪔",
+    "timestamp": 1793637816046,
+    "isSample": true
+  },
+  {
+    "id": "seed-ka",
+    "name": "Raghav",
+    "state": "Karnataka",
+    "wish": "From Namma Bengaluru, wishing every home deep serenity, sweet treats, and glowing earthen lamps.",
+    "timestamp": 1793639616046,
+    "isSample": true
+  },
+  {
+    "id": "seed-pb",
+    "name": "Harpreet",
+    "state": "Punjab",
+    "wish": "Bandi Chhor Divas & Diwali greetings! May light, liberty, and righteousness illuminate every family’s path.",
+    "timestamp": 1793641416046,
+    "isSample": true
+  },
+  {
+    "id": "seed-up",
+    "name": "Aditi",
+    "state": "Uttar Pradesh",
+    "wish": "From the sacred ghats of Varanasi and Ayodhya, praying for divine health, unity, and endless love! ❤️",
+    "timestamp": 1793643516046,
+    "isSample": true
+  }
+]

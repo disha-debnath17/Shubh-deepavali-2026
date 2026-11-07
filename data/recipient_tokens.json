@@ -1,0 +1,71 @@
+[
+  {
+    "id": "token_mom_legacy",
+    "tokenHash": "7287938710872c49c851e17cab484c0ec1e1f52f7c4359968d7838d3a635da1b",
+    "role": "mom",
+    "recipientName": "Maa",
+    "createdAt": 1793198556116,
+    "expiresAt": 1825339356116,
+    "revoked": false,
+    "legacyCode": "maa-x7q2"
+  },
+  {
+    "id": "token_dad_legacy",
+    "tokenHash": "1f62f12c541006d805f47d1fdcef0fc76ffaf03dcf098f2137e18fdd1ea504b6",
+    "role": "dad",
+    "recipientName": "Papa",
+    "createdAt": 1793198556117,
+    "expiresAt": 1825339356117,
+    "revoked": false,
+    "legacyCode": "papa-k9d4"
+  },
+  {
+    "id": "token_sister_legacy",
+    "tokenHash": "022ccbd2321cf477801c125bfa01e853e31a3dc835c306899ba0bf56c14e5743",
+    "role": "sister",
+    "recipientName": "Sister",
+    "createdAt": 1793198556117,
+    "expiresAt": 1825339356117,
+    "revoked": false,
+    "legacyCode": "di-s5v3"
+  },
+  {
+    "id": "token_brother_legacy",
+    "tokenHash": "cec9fd6702660d3d471466d24ec66f5d996041697d5352c37bf2066ba277d3ce",
+    "role": "brother",
+    "recipientName": "Brother",
+    "createdAt": 1793198556117,
+    "expiresAt": 1825339356117,
+    "revoked": false,
+    "legacyCode": "bhai-b7r1"
+  },
+  {
+    "id": "token_bestie_legacy",
+    "tokenHash": "67c370ee1e727eb25d6fca29491ad64c563e74ad847cfe4da2c492ac4dd91b6b",
+    "role": "bestie",
+    "recipientName": "Bestie",
+    "createdAt": 1793198556117,
+    "expiresAt": 1825339356117,
+    "revoked": false,
+    "legacyCode": "bestie-y6n2"
+  },
+  {
+    "id": "token_friend_legacy",
+    "tokenHash": "6902c65bef8a9453d2b826c6a2e4e61e49546af1e6e4834d1c6eebfcaba53284",
+    "role": "friend",
+    "recipientName": "Friend",
+    "createdAt": 1793198556117,
+    "expiresAt": 1825339356117,
+    "revoked": false,
+    "legacyCode": "yaara-f8c5"
+  },
+  {
+    "id": "token_1793803380039_d8i9p",
+    "tokenHash": "7261fd74cbb86a0e4ca54f0a03a71eeef9551d7aa510339c30ea84ff5f300cc5",
+    "role": "sister",
+    "recipientName": "Sister (Sample)",
+    "createdAt": 1793803380039,
+    "expiresAt": 1794408180039,
+    "revoked": true
+  }
+]
