@@ -2,6 +2,8 @@
 
 An interactive, multilingual (English / Hindi / Bengali) Diwali experience. Visitors decorate a home with diyas and rangoli, open a mithai box, explore regional Diwali traditions across India, play mela games, send personalized greeting cards, and leave a wish on a community wall.
 
+## Live app: https://shubh-deepavaali.ai.studio
+
 ## ✨ Features
 
 - **Guided scenes:** Welcome, Decorate, Mithai, Letter, Family Gifts, Fireworks
@@ -48,7 +50,7 @@ Deployment and Development: Google AI Studio project · AWS Amplify static build
 
 ## 🎵 Credits
 
-Audio files are from Freesound and other contributors (see the in-app **Audio Credits** modal). Please check each licence before commercial reuse.
+Audio files are from Freesound and other contributors (see the in-app **Audio Credits** modal).
 
 ## 📜 License
 
